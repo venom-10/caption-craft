@@ -24,3 +24,9 @@ npm run dev
 - **Preview and Edit**: Watch the video with captions and make adjustments as needed.
 
 CaptionCraft streamlines the process of enhancing videos with subtitles, making it ideal for content creators, educators, and anyone looking to improve accessibility and engagement.
+
+## Areas for Improvement
+- Enhanced Precision in Subtitle Timing
+- Elevated Caption Design
+- Optimized Mobile Design
+- Improvement of the design of draggable range input
