@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  padding: 0px;
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+
+::cue {
+  font-weight: 500;
+}
