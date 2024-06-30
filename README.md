@@ -3,6 +3,13 @@
 
 CaptionCraft is a web application designed to simplify the process of adding captions to videos. It empowers users to upload a hosted video, enter captions along with timestamp information, and seamlessly integrate these captions into the video playback experience.
 
+### Setting up Dev
+```shell
+git clone https://github.com/venom-10/caption-craft.git
+cd caption-craft/
+npm install
+npm run dev
+```
 
 ## Key Features:
 - **Upload Video**: Users can input a URL to upload or use the default one their desired video.
